@@ -5,7 +5,7 @@ Mengoreksi soal dari tahap 1 dan mempelajari TCP/IP, Topologi Dasar, dan OSI Lay
 
 # TCP/IP, ISO Layer, Topologi Dasar
 
-**RFC (Request for Comments)**
+**RFC (Request for Comments)**  
 	RFC Adalah salah satu dokumen informasi standar internet ber seri, biasanya digunakan dalamjaringan, internet dan beberapa OS jaringan, mulai dari Unix, Windows, dan Novell NetWare. Diterbitkan oleh ISOC (Internet Society) dan badan-badan penyusun standar, seperti Internet Enginering Task Force (IETF) atau Internet Research Task Force (IRTF). 
 Beberapa RFC yang bisa digunakan:
 1. RFC 791 = Internet Protocol
@@ -13,7 +13,7 @@ Beberapa RFC yang bisa digunakan:
 3. RFC 1918 = Address Allocation for Private Internet
 4. Dan masi banyak lagi
 
-**IP Address**
+**IP Address**  
 IP Address Adalah Alamat perangkat jaringan.  
 IP Private, IP yang digunakan hanya di local.  
 Range,  
