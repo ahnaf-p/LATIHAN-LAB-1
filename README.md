@@ -21,7 +21,8 @@ Range,
 172.16.0.0 – 172.31.255.255 /12 (172.16/12 prefix)  
 192.168.0.0 – 192.168.255.255 /16 (192.168/16 prefix)*  
 IP Public, IP yang digunakan untuk terhubung ke internet.  
-*Range, sisa dari IP Private.*  
+*Range,  
+sisa dari IP Private.*  
 
 ![cover](cover.jpg)
 ![first](first.jpg)
