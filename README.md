@@ -60,4 +60,4 @@ Subnet Mask:
 	UDP atau yang disebut dengan User Datagram Protocol. UDP merupakan protokol yang sangat diperlukan jika sangat membutuhkan kecepatan dalam konektivitas. Protokol ini merupakan kebalikan dari TCP. Dimana pesan diprotokol ditransfer dengan tidak mempertimbangkan hubungan konektivitas antara host. UDP bekerja tidak berurut, sehingga file tidak dapat diidentifikasi atau diprediksi kapan akan sampai pertama kali.  
 
 # OSI LAYER
-![](second.png)
+![b](second.jpg)
