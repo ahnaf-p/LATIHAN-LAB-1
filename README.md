@@ -45,6 +45,9 @@ Subnet Mask:
     Subnet mask digunakan untuk menentukan batas antara network bits dan host bits.
     Contoh: Subnet mask 255.255.255.0 berarti 24 bit pertama adalah network bits (ditulis sebagai /24).  
 
+ Tabel subnetting  
+ ![s](subnet.webp)  
+
 # TCP UDP
   
 **TCP**  
